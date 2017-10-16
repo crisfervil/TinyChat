@@ -1,3 +1,5 @@
+[![Windows Build](https://ci.appveyor.com/api/projects/status/github/crisfervil/tinychat?svg=true)](https://ci.appveyor.com/project/crisfervil/tinychat)
+
 # TinyChat
 Tiny chat application that works in a LAN network
 
