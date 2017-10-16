@@ -4,7 +4,7 @@
 Tiny chat application that works on a LAN infrastructure
 
 # Description
-What's the minimun number of lines of code do you need to write a messenger application that works in a LAN network?
+What's the minimun number of lines of code do you need to write a messenger application that works on a LAN network?
 
 That's a question I've asked my colleagues the other day, and this is my proposed solution. 
 
