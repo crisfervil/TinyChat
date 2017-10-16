@@ -1,8 +1,5 @@
 [![Windows Build](https://ci.appveyor.com/api/projects/status/github/crisfervil/tinychat?svg=true)](https://ci.appveyor.com/project/crisfervil/tinychat)
 
-# TinyChat
-Tiny chat application that works on a LAN infrastructure
-
 # Description
 What's the minimun number of lines of code do you need to write a messenger application that works on a LAN network?
 
