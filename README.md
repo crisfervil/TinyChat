@@ -8,11 +8,11 @@ That's a question I've asked my colleagues the other day, and this is my propose
 
 It's a 108 lines long, but I think it can be reduced even further. 
 
+The program creates a temporary .txt file containing the chat lines and monitors its changes to show other users messages.
+
 # How to use it?
 
 Copy the exec file in a shared folder, and run it from there.
-
-The app creates a temporary .txt file containing the chat lines and monitors its changes to show other users messages.
 
 The application first asks for a nick name, and then enters in display mode, to show the conversation lines. 
 
